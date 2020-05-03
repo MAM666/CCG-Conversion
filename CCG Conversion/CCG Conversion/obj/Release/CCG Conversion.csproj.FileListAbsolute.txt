@@ -1,0 +1,9 @@
+F:\Apps\CCG Conversion\CCG Conversion\bin\Release\CCGConversion.exe.config
+F:\Apps\CCG Conversion\CCG Conversion\bin\Release\CCGConversion.exe
+F:\Apps\CCG Conversion\CCG Conversion\bin\Release\CCGConversion.pdb
+F:\Apps\CCG Conversion\CCG Conversion\obj\Release\CCG Conversion.csprojAssemblyReference.cache
+F:\Apps\CCG Conversion\CCG Conversion\obj\Release\CCGConversion.exe
+F:\Apps\CCG Conversion\CCG Conversion\obj\Release\CCGConversion.pdb
+F:\Apps\CCG Conversion\CCG Conversion\bin\Release\Newtonsoft.Json.dll
+F:\Apps\CCG Conversion\CCG Conversion\bin\Release\Newtonsoft.Json.xml
+F:\Apps\CCG Conversion\CCG Conversion\obj\Release\CCG Conversion.csproj.CopyComplete
