@@ -14,5 +14,5 @@ db - its a database file:
 First line is the connection string.
 Second line is the SQL to execute.
 
-either a copletion message will be printed to the console or a problem message.
+either a completion message will be printed to the console or a problem message.
 
