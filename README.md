@@ -1,9 +1,9 @@
 # CCG-Conversion
 A simple console conversion tool.
 There are currently 4 params:
-F\<filename> - the extension is the important part see below. 
-O\<output> - the extension is the important part see below. If no filename then will use the input filename. All output filename will be overwritten if they exist.
-P\<pattern> - currently only '_' and 'people' are supported.
+F\\<filename> - the extension is the important part see below. 
+O\\<output> - the extension is the important part see below. If no filename then will use the input filename. All output filename will be overwritten if they exist.
+P\\<pattern> - currently only '_' and 'people' are supported.
 -wait - the console will stay open till the user presses a key.
 
 extensions: 
